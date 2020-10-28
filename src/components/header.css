@@ -1,0 +1,74 @@
+body{
+    background-color: #333;
+}
+
+.head{
+    background-image: url('../images/podcast.png');
+    /* border-style: solid ; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+}
+.logo{
+    width: 250px;
+    height: 90px;
+    padding-left: 40px;
+    padding-top: 12px;
+}
+
+ul {
+    list-style-type: none;
+    padding-top: 30px;
+    text-align: left;
+  }
+li,a {
+    display: inline;
+    color:white;
+    padding-left: 10px;
+    text-align: left;
+  }
+  
+a:link {
+    text-decoration: none;
+}
+a:hover{
+    color:#f5dd42;
+}
+.active{
+    color:#f5dd42;
+}
+
+.wrap1{
+    font-size: 36px;
+    font-family: 'Noto Serif', serif;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    padding: 100px 0 0 150px;
+    position: relative;
+}
+.wrap2{
+    font-size: 36px;
+    font-family: 'Noto Serif', serif;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    top: 71px;
+}
+.wrap3{
+    background: url("../images/banner-head.svg");
+    background-repeat: no-repeat;
+    background-size: 191px 81px;
+    position: absolute;
+    top: 133px;
+    left:400px;
+    
+}
+ .wrap3 > div{
+    font-family: 'Rock Salt', cursive;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+ }

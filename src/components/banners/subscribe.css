@@ -1,0 +1,30 @@
+
+.subscribecontainer {
+  background-color: #f5dd42;
+  padding:40px;
+  justify-content: center;
+
+}
+
+.textstyle{
+  /* padding-left: 8px; */
+  border:none;
+  height: 36px;
+
+}
+
+.blackbutton{
+  height: 38px;
+    border: none;
+    font-weight: bold;
+    background: #1d2326;
+    color: #FFFFFF;
+    padding: 11px;
+    cursor: pointer;
+}
+
+.touchstyle {
+  font-weight: bold;
+  font-size: 16px;
+  padding-top: 12px;
+}

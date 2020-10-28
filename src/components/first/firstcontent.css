@@ -1,0 +1,23 @@
+.content_bg{
+    background: url('../../images/story-banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.headline{
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    position: relative;
+    top:80px;
+}
+.info{
+    width: 294px;
+    text-align: center;
+    color: white;
+    font-style: italic;
+    position: relative;
+    top: 150px;
+    left: 150px;
+    margin-bottom: 600px;
+}

@@ -1,0 +1,44 @@
+#big_contain1{
+    width:380px;
+    float:right;
+    padding: 50px 100px 50px 0;
+}
+.fea_article,.guest{
+    font-weight: bold;
+    background: url("../../images/head-bottom.svg");
+    background-repeat: no-repeat;
+    background-size: 140px 35px ;
+}
+.cont_king, .exp{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+}
+.blog_im1{
+    width: 370px;
+    height: 200px;
+}
+.para1{
+    width: 370px;
+}
+
+/*///////////////////////////////////////////////////////////////////////////////////////*/
+
+#big_contain2{
+    width:340px;
+    padding: 50px 0 50px 80px;
+}
+
+.fresh{
+    font-size: 20px;
+    font-family: 'Rock Salt', cursive;
+    background: url("../../images/heading-bg.svg");
+    background-repeat: no-repeat;
+    background-size: 176px 48px;
+
+}
+.video-1 {
+    width: 332px;
+    height: 190px;
+    
+}
